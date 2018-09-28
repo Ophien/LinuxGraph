@@ -1,2 +1,2 @@
 # LinuxGraph
-Linux graph project with opengl.
+Linux graph project with opengl. This source code was posted with educational purposes.
